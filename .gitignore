@@ -15,3 +15,5 @@ Q1/contracts/circuits/hitandblow_js
 verification_key.json
 verifier.sol
 Part1/contracts/circuits/MastermindVariation_js
+Part1/contracts/circuits/bonus_js
+
